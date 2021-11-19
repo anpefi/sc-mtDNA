@@ -1,0 +1,35 @@
+POS	Tissue	Region	Type
+CRC12_TD_TNS10	Tumor	Distal	Non-Stem 2
+CRC12_TD_TNS12	Tumor	Distal	Non-Stem 2
+CRC12_TD_TNS13	Tumor	Distal	Non-Stem 2
+CRC12_TD_TNS14	Tumor	Distal	Non-Stem 2
+CRC12_TD_TNS19	Tumor	Distal	Non-Stem 2
+CRC12_TD_TNS2	Tumor	Distal	Non-Stem 2
+CRC12_TD_TNS20	Tumor	Distal	Non-Stem 2
+CRC12_TD_TNS3	Tumor	Distal	Non-Stem 2
+CRC12_TD_TNS4	Tumor	Distal	Non-Stem 2
+CRC12_TD_TNS6	Tumor	Distal	Non-Stem 2
+CRC12_TD_TNS8	Tumor	Distal	Non-Stem 2
+CRC12_TD_TNS9	Tumor	Distal	Non-Stem 2
+CRC12_TD_TS14	Tumor	Distal	Stem
+CRC12_TD_TS16	Tumor	Distal	Stem
+CRC12_TM_TNS14	Tumor	Middle	Non-Stem 2
+CRC12_TM_TNS3	Tumor	Middle	Non-Stem 2
+CRC12_TM_TNS9	Tumor	Middle	Non-Stem 2
+CRC12_TM_TS11	Tumor	Middle	Stem
+CRC12_TM_TS17	Tumor	Middle	Stem
+CRC12_TM_TS20	Tumor	Middle	Stem
+CRC12_TM_TS9	Tumor	Middle	Stem
+CRC12_TP_TNS10	Tumor	Proximal	Non-Stem 2
+CRC12_TP_TNS13	Tumor	Proximal	Non-Stem 2
+CRC12_TP_TNS2	Tumor	Proximal	Non-Stem 2
+CRC12_TP_TNS3	Tumor	Proximal	Non-Stem 2
+CRC12_TP_TNS4	Tumor	Proximal	Non-Stem 2
+CRC12_TP_TNS5	Tumor	Proximal	Non-Stem 2
+CRC12_TP_TS10	Tumor	Proximal	Stem
+CRC12_TP_TS15	Tumor	Proximal	Stem
+CRC12_TP_TS17	Tumor	Proximal	Stem
+CRC12_TP_TS20	Tumor	Proximal	Stem
+CRC12_TP_TS4	Tumor	Proximal	Stem
+CRC12_TP_TS5	Tumor	Proximal	Stem
+CRC12_TP_TS9	Tumor	Proximal	Stem

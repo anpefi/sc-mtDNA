@@ -1,0 +1,106 @@
+POS	Tissue	Region	Type
+CRC07-XD-NNS10	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS16	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS20	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS23	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS24	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS27	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS28	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS30	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS31	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS32	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS33	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS36	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS37	Normal	Distal	Non-Stem 2
+CRC07-XD-NNS7	Normal	Distal	Non-Stem 2
+CRC07-XD-NS11	Normal	Distal	Stem
+CRC07-XD-NS12	Normal	Distal	Stem
+CRC07-XD-NS13	Normal	Distal	Stem
+CRC07-XD-NS14	Normal	Distal	Stem
+CRC07-XD-NS15	Normal	Distal	Stem
+CRC07-XD-NS2	Normal	Distal	Stem
+CRC07-XD-NS4	Normal	Distal	Stem
+CRC07-XD-NS8	Normal	Distal	Stem
+CRC07-XD-NS9	Normal	Distal	Stem
+CRC07-XP-NNS10	Normal	Proximal	Non-Stem 2
+CRC07-XP-NNS11	Normal	Proximal	Non-Stem 2
+CRC07-XP-NNS12	Normal	Proximal	Non-Stem 2
+CRC07-XP-NNS14	Normal	Proximal	Non-Stem 2
+CRC07-XP-NNS15	Normal	Proximal	Non-Stem 2
+CRC07-XP-NNS18	Normal	Proximal	Non-Stem 2
+CRC07-XP-NNS19	Normal	Proximal	Non-Stem 2
+CRC07-XP-NNS2	Normal	Proximal	Non-Stem 2
+CRC07-XP-NNS3	Normal	Proximal	Non-Stem 2
+CRC07-XP-NNS5	Normal	Proximal	Non-Stem 2
+CRC07-XP-NNS6	Normal	Proximal	Non-Stem 2
+CRC07-XP-NNS7	Normal	Proximal	Non-Stem 2
+CRC07-XP-NS1	Normal	Proximal	Stem
+CRC07-XP-NS10	Normal	Proximal	Stem
+CRC07-XP-NS11	Normal	Proximal	Stem
+CRC07-XP-NS12	Normal	Proximal	Stem
+CRC07-XP-NS13	Normal	Proximal	Stem
+CRC07-XP-NS14	Normal	Proximal	Stem
+CRC07-XP-NS15	Normal	Proximal	Stem
+CRC07-XP-NS16	Normal	Proximal	Stem
+CRC07-XP-NS17	Normal	Proximal	Stem
+CRC07-XP-NS18	Normal	Proximal	Stem
+CRC07-XP-NS19	Normal	Proximal	Stem
+CRC07-XP-NS20	Normal	Proximal	Stem
+CRC07-XP-NS3	Normal	Proximal	Stem
+CRC07-XP-NS4	Normal	Proximal	Stem
+CRC07-XP-NS5	Normal	Proximal	Stem
+CRC07-XP-NS6	Normal	Proximal	Stem
+CRC07-XP-NS7	Normal	Proximal	Stem
+CRC07-XP-NS8	Normal	Proximal	Stem
+CRC07-XP-NS9	Normal	Proximal	Stem
+CRC07-TD-TNS11	Tumor	Distal	Non-Stem 2
+CRC07-TD-TNS12	Tumor	Distal	Non-Stem 2
+CRC07-TD-TNS15	Tumor	Distal	Non-Stem 2
+CRC07-TD-TNS17	Tumor	Distal	Non-Stem 2
+CRC07-TD-TNS18	Tumor	Distal	Non-Stem 2
+CRC07-TD-TNS19	Tumor	Distal	Non-Stem 2
+CRC07-TD-TNS20	Tumor	Distal	Non-Stem 2
+CRC07-TD-TNS4	Tumor	Distal	Non-Stem 2
+CRC07-TD-TNS5	Tumor	Distal	Non-Stem 2
+CRC07-TD-TNS6	Tumor	Distal	Non-Stem 2
+CRC07-TD-TNS7	Tumor	Distal	Non-Stem 2
+CRC07-TD-TNS9	Tumor	Distal	Non-Stem 2
+CRC07-TD-TS10	Tumor	Distal	Stem
+CRC07-TD-TS11	Tumor	Distal	Stem
+CRC07-TD-TS12	Tumor	Distal	Stem
+CRC07-TD-TS13	Tumor	Distal	Stem
+CRC07-TD-TS14	Tumor	Distal	Stem
+CRC07-TD-TS15	Tumor	Distal	Stem
+CRC07-TD-TS16	Tumor	Distal	Stem
+CRC07-TD-TS17	Tumor	Distal	Stem
+CRC07-TD-TS18	Tumor	Distal	Stem
+CRC07-TD-TS19	Tumor	Distal	Stem
+CRC07-TD-TS20	Tumor	Distal	Stem
+CRC07-TD-TS4	Tumor	Distal	Stem
+CRC07-TD-TS5	Tumor	Distal	Stem
+CRC07-TD-TS6	Tumor	Distal	Stem
+CRC07-TD-TS7	Tumor	Distal	Stem
+CRC07-TM-TNS1	Tumor	Middle	Non-Stem 2
+CRC07-TM-TNS2	Tumor	Middle	Non-Stem 2
+CRC07-TM-TNS4	Tumor	Middle	Non-Stem 2
+CRC07-TM-TNS5	Tumor	Middle	Non-Stem 2
+CRC07-TM-TNS6	Tumor	Middle	Non-Stem 2
+CRC07-TM-TS11	Tumor	Middle	Stem
+CRC07-TM-TS4	Tumor	Middle	Stem
+CRC07-TM-TS5	Tumor	Middle	Stem
+CRC07-TM-TS6	Tumor	Middle	Stem
+CRC07-TM-TS7	Tumor	Middle	Stem
+CRC07-TP-TNS11	Tumor	Proximal	Non-Stem 2
+CRC07-TP-TNS17	Tumor	Proximal	Non-Stem 2
+CRC07-TP-TNS18	Tumor	Proximal	Non-Stem 2
+CRC07-TP-TNS19	Tumor	Proximal	Non-Stem 2
+CRC07-TP-TNS20	Tumor	Proximal	Non-Stem 2
+CRC07-TP-TS1	Tumor	Proximal	Stem
+CRC07-TP-TS10	Tumor	Proximal	Stem
+CRC07-TP-TS13	Tumor	Proximal	Stem
+CRC07-TP-TS14	Tumor	Proximal	Stem
+CRC07-TP-TS16	Tumor	Proximal	Stem
+CRC07-TP-TS17	Tumor	Proximal	Stem
+CRC07-TP-TS2	Tumor	Proximal	Stem
+CRC07-TP-TS7	Tumor	Proximal	Stem
+CRC07-TP-TS9	Tumor	Proximal	Stem

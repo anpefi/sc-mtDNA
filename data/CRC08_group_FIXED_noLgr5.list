@@ -1,0 +1,55 @@
+POS	Sample	Tissue	Location	Cell_type
+CRC08.NP.BULK	Bulk	Normal	Proximal	
+CRC08.TP.BULK	Bulk	Tumor	Proximal	
+CRC08-ND_NS11	Single-Cell	Normal	Distal	Stem
+CRC08-NP_Lgr5_12	Single-Cell	Normal	Proximal	Non-Stem 1
+CRC08-NP_Lgr5_6	Single-Cell	Normal	Proximal	Non-Stem 1
+CRC08-NP_Lgr5_8	Single-Cell	Normal	Proximal	Non-Stem 1
+CRC08-NPNNS11	Single-Cell	Normal	Proximal	Non-Stem 2
+CRC08-NPNNS14	Single-Cell	Normal	Proximal	Non-Stem 2
+CRC08-NPNNS16	Single-Cell	Normal	Proximal	Non-Stem 2
+CRC08-NPNNS17	Single-Cell	Normal	Proximal	Non-Stem 2
+CRC08-NPNNS18	Single-Cell	Normal	Proximal	Non-Stem 2
+CRC08-NPNNS20	Single-Cell	Normal	Proximal	Non-Stem 2
+CRC08-NPNNS5	Single-Cell	Normal	Proximal	Non-Stem 2
+CRC08-NPNNS6	Single-Cell	Normal	Proximal	Non-Stem 2
+CRC08-TCTLgr511	Single-Cell	Tumor	Central	Non-Stem 1
+CRC08-TCTLgr512	Single-Cell	Tumor	Central	Non-Stem 1
+CRC08-TCTLgr514	Single-Cell	Tumor	Central	Non-Stem 1
+CRC08-TCTLgr517	Single-Cell	Tumor	Central	Non-Stem 1
+CRC08-TCTLgr53	Single-Cell	Tumor	Central	Non-Stem 1
+CRC08-TCTLgr56	Single-Cell	Tumor	Central	Non-Stem 1
+CRC08-TCTLgr57	Single-Cell	Tumor	Central	Non-Stem 1
+CRC08-TCTLgr59	Single-Cell	Tumor	Central	Non-Stem 1
+CRC08-TCTNS11	Single-Cell	Tumor	Central	Non-Stem 2
+CRC08-TCTNS18	Single-Cell	Tumor	Central	Non-Stem 2
+CRC08-TCTNS19	Single-Cell	Tumor	Central	Non-Stem 2
+CRC08-TCTNS20	Single-Cell	Tumor	Central	Non-Stem 2
+CRC08-TCTNS5	Single-Cell	Tumor	Central	Non-Stem 2
+CRC08-TCTNS6	Single-Cell	Tumor	Central	Non-Stem 2
+CRC08-TCTNS7	Single-Cell	Tumor	Central	Non-Stem 2
+CRC08-TCTNS8	Single-Cell	Tumor	Central	Non-Stem 2
+CRC08-TDTNS11	Single-Cell	Tumor	Distal	Non-Stem 2
+CRC08-TDTNS12	Single-Cell	Tumor	Distal	Non-Stem 2
+CRC08-TDTNS13	Single-Cell	Tumor	Distal	Non-Stem 2
+CRC08-TDTNS19	Single-Cell	Tumor	Distal	Non-Stem 2
+CRC08-TDTNS20	Single-Cell	Tumor	Distal	Non-Stem 2
+CRC08-TDTS15	Single-Cell	Tumor	Distal	Stem
+CRC08-TDTS16	Single-Cell	Tumor	Distal	Stem
+CRC08-TDTS20	Single-Cell	Tumor	Distal	Stem
+CRC08-TDTS5	Single-Cell	Tumor	Distal	Stem
+CRC08-TDTS9	Single-Cell	Tumor	Distal	Stem
+CRC08_TP_Lgr5-12	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-13	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-14	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-15	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-16	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-17	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-18	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-19	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-2	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-20	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-3	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-5	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-7	Single-Cell	Tumor	Proximal	Non-Stem 1
+CRC08_TP_Lgr5-9	Single-Cell	Tumor	Proximal	Non-Stem 1
