@@ -114,7 +114,7 @@ amv
     ## Variance components:
     ##             sigma2 P.value
     ## Tissue  0.00662413        
-    ## Region -0.00046686   0.001
+    ## Region -0.00046686   0.003
     ## Error   0.00631323        
     ## 
     ## Phi-statistics:
@@ -178,16 +178,16 @@ for (i in 1:(ntt-1) ){
         }
 ```
 
-    ## Normal_Distal  -  Normal_Proximal :  -0.0284       (P= 0.6874 )  
+    ## Normal_Distal  -  Normal_Proximal :  -0.0284       (P= 0.688 )  
     ## Normal_Distal  -  Tumor_Distal :  0.5552       (P<0.0001)  
-    ## Normal_Distal  -  Tumor_Middle :  0.1937       (P= 0.0397 )  
-    ## Normal_Distal  -  Tumor_Proximal :  -0.1291    (P= 0.9565 )  
+    ## Normal_Distal  -  Tumor_Middle :  0.1937       (P= 0.0322 )  
+    ## Normal_Distal  -  Tumor_Proximal :  -0.1291    (P= 0.9531 )  
     ## Normal_Proximal  -  Tumor_Distal :  0.4215     (P<0.0001)  
-    ## Normal_Proximal  -  Tumor_Middle :  0.1656     (P= 0.06499 )  
-    ## Normal_Proximal  -  Tumor_Proximal :  -0.05692     (P= 0.7856 )  
-    ## Tumor_Distal  -  Tumor_Middle :  0.2096    (P= 0.0304 )  
+    ## Normal_Proximal  -  Tumor_Middle :  0.1656     (P= 0.06019 )  
+    ## Normal_Proximal  -  Tumor_Proximal :  -0.05692     (P= 0.804 )  
+    ## Tumor_Distal  -  Tumor_Middle :  0.2096    (P= 0.0295 )  
     ## Tumor_Distal  -  Tumor_Proximal :  0.5309      (P<0.0001)  
-    ## Tumor_Middle  -  Tumor_Proximal :  0.1965      (P= 0.0464 )
+    ## Tumor_Middle  -  Tumor_Proximal :  0.1965      (P= 0.05079 )
 
 ## Tissue/Type
 
@@ -213,12 +213,12 @@ for (i in 1:(ntt-1) ){
         }
 ```
 
-    ## Normal_Non-Stem 2  -  Normal_Stem :  0.09019       (P= 0.0438 )  
-    ## Normal_Non-Stem 2  -  Tumor_Non-Stem 2 :  0.2174       (P= 0.0012 )  
+    ## Normal_Non-Stem 2  -  Normal_Stem :  0.09019       (P= 0.044 )  
+    ## Normal_Non-Stem 2  -  Tumor_Non-Stem 2 :  0.2174       (P= 0.0017 )  
     ## Normal_Non-Stem 2  -  Tumor_Stem :  0.3563     (P<0.0001)  
-    ## Normal_Stem  -  Tumor_Non-Stem 2 :  0.1526     (P= 0.0225 )  
-    ## Normal_Stem  -  Tumor_Stem :  0.4032       (P<0.0001)  
-    ## Tumor_Non-Stem 2  -  Tumor_Stem :  0.07761     (P= 0.07489 )
+    ## Normal_Stem  -  Tumor_Non-Stem 2 :  0.1526     (P= 0.0257 )  
+    ## Normal_Stem  -  Tumor_Stem :  0.4032       (P= 2e-04 )  
+    ## Tumor_Non-Stem 2  -  Tumor_Stem :  0.07761     (P= 0.08189 )
 
 # Copy Number (fastmitocalc):
 
@@ -241,8 +241,6 @@ axis(2,las=2)
 ```
 
 # Coverage along mtDNA:
-
-\#CRC07
 
 ``` r
 a <- read.table(here::here("data/CRC07_Mean_Depth.txt"), header = T)
