@@ -11,3 +11,4 @@ This repository contains the scripts and data needed to reproduce the plots in t
 - **reports**. Reproducible reports with the scripts to reproduce the figures
   - [Report for CRC01](reports/CRC01.md)
   - [Report for CRC07](reports/CRC07.md)
+  - [Report for CRC08](reports/CRC08.md)
