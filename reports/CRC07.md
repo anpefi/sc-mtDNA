@@ -24,7 +24,7 @@ popdata <- read.table(here::here("data/CRC07_group_FIXED_noLgr5.list"), h=T, sep
 color_anno = list( Sample = c("Bulk"="black", "Single-Cell"="grey"), #Change as needed
                    Tissue = c("Tumor"="red", "Normal"="blue"),
                    Location = c("Central"="brown", "Middle"="brown", "Distal"="yellow", "Proximal"="darkgreen"),
-                   Cell_type = c("Non-Stem 1"="lightblue", "Non-Stem 2"="lightgreen", "Stem"="orange", "ND"="white")
+                   Cell_type = c("Stem 1"="lightblue", "Non-Stem"="lightgreen", "Stem 2"="orange", "ND"="white")
 )
 
 ha1 <- rowAnnotation(df = popdata[,-1], col = color_anno, show_annotation_name = F, na_col = "white")
@@ -114,7 +114,7 @@ amv
     ## Variance components:
     ##             sigma2 P.value
     ## Tissue  0.00662413        
-    ## Region -0.00046686   0.003
+    ## Region -0.00046686       0
     ## Error   0.00631323        
     ## 
     ## Phi-statistics:
@@ -178,16 +178,16 @@ for (i in 1:(ntt-1) ){
         }
 ```
 
-    ## Normal_Distal  -  Normal_Proximal :  -0.0284       (P= 0.688 )  
+    ## Normal_Distal  -  Normal_Proximal :  -0.0284       (P= 0.6817 )  
     ## Normal_Distal  -  Tumor_Distal :  0.5552       (P<0.0001)  
-    ## Normal_Distal  -  Tumor_Middle :  0.1937       (P= 0.0322 )  
-    ## Normal_Distal  -  Tumor_Proximal :  -0.1291    (P= 0.9531 )  
+    ## Normal_Distal  -  Tumor_Middle :  0.1937       (P= 0.0399 )  
+    ## Normal_Distal  -  Tumor_Proximal :  -0.1291    (P= 0.9552 )  
     ## Normal_Proximal  -  Tumor_Distal :  0.4215     (P<0.0001)  
-    ## Normal_Proximal  -  Tumor_Middle :  0.1656     (P= 0.06019 )  
-    ## Normal_Proximal  -  Tumor_Proximal :  -0.05692     (P= 0.804 )  
-    ## Tumor_Distal  -  Tumor_Middle :  0.2096    (P= 0.0295 )  
+    ## Normal_Proximal  -  Tumor_Middle :  0.1656     (P= 0.06359 )  
+    ## Normal_Proximal  -  Tumor_Proximal :  -0.05692     (P= 0.7931 )  
+    ## Tumor_Distal  -  Tumor_Middle :  0.2096    (P= 0.0303 )  
     ## Tumor_Distal  -  Tumor_Proximal :  0.5309      (P<0.0001)  
-    ## Tumor_Middle  -  Tumor_Proximal :  0.1965      (P= 0.05079 )
+    ## Tumor_Middle  -  Tumor_Proximal :  0.1965      (P= 0.05119 )
 
 ## Tissue/Type
 
@@ -213,12 +213,12 @@ for (i in 1:(ntt-1) ){
         }
 ```
 
-    ## Normal_Non-Stem 2  -  Normal_Stem :  0.09019       (P= 0.044 )  
-    ## Normal_Non-Stem 2  -  Tumor_Non-Stem 2 :  0.2174       (P= 0.0017 )  
-    ## Normal_Non-Stem 2  -  Tumor_Stem :  0.3563     (P<0.0001)  
-    ## Normal_Stem  -  Tumor_Non-Stem 2 :  0.1526     (P= 0.0257 )  
-    ## Normal_Stem  -  Tumor_Stem :  0.4032       (P= 2e-04 )  
-    ## Tumor_Non-Stem 2  -  Tumor_Stem :  0.07761     (P= 0.08189 )
+    ## Normal_Non-Stem  -  Normal_Stem 2 :  0.09019       (P= 0.0424 )  
+    ## Normal_Non-Stem  -  Tumor_Non-Stem :  0.2174       (P= 0.0009999 )  
+    ## Normal_Non-Stem  -  Tumor_Stem 2 :  0.3563     (P<0.0001)  
+    ## Normal_Stem 2  -  Tumor_Non-Stem :  0.1526     (P= 0.0234 )  
+    ## Normal_Stem 2  -  Tumor_Stem 2 :  0.4032       (P<0.0001)  
+    ## Tumor_Non-Stem  -  Tumor_Stem 2 :  0.07761     (P= 0.07829 )
 
 # Copy Number (fastmitocalc):
 
