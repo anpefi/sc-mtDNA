@@ -1,49 +1,49 @@
 POS	Sample	Tissue	Location	Cell_type
 CRC01.BULK.29	Bulk	Normal	LargeBowel	
 CRC01.BULK.49	Bulk	Tumor	LargeBowel	
-CRC01-P92NNS18	Single-Cell	Normal	AdrenalGland	Non-Stem 2
-CRC1_P24_Lgr5_19	Single-Cell	Normal	Duodenum	Non-Stem 1
-CRC01-P24NNS14	Single-Cell	Normal	Duodenum	Non-Stem 2
-CRC01-P24NNS4	Single-Cell	Normal	Duodenum	Non-Stem 2
-CRC01-P24NNS8	Single-Cell	Normal	Duodenum	Non-Stem 2
-CRC01-P24NS1	Single-Cell	Normal	Duodenum	Stem
-CRC01-P24NS13	Single-Cell	Normal	Duodenum	Stem
-CRC01-P24NS14	Single-Cell	Normal	Duodenum	Stem
-CRC01-P24NS16	Single-Cell	Normal	Duodenum	Stem
-CRC01-P24NS17	Single-Cell	Normal	Duodenum	Stem
-CRC01-P24NS18	Single-Cell	Normal	Duodenum	Stem
-CRC01-P24NS19	Single-Cell	Normal	Duodenum	Stem
-CRC01-P24NS3	Single-Cell	Normal	Duodenum	Stem
-CRC01-P24NS5	Single-Cell	Normal	Duodenum	Stem
-CRC01-P59NNS1	Single-Cell	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NNS11	Single-Cell	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NNS15	Single-Cell	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NNS16	Single-Cell	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NNS18	Single-Cell	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NNS5	Single-Cell	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NNS9	Single-Cell	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NS10	Single-Cell	Normal	LargeBowel	Stem
-CRC01-P59NS11	Single-Cell	Normal	LargeBowel	Stem
-CRC01-P59NS18	Single-Cell	Normal	LargeBowel	Stem
-CRC01-P59NS7	Single-Cell	Normal	LargeBowel	Stem
-CRC1_P87_Lgr5_12	Single-Cell	Normal	Spleen	Non-Stem 1
-CRC1_P87_Lgr5_20	Single-Cell	Normal	Spleen	Non-Stem 1
-CRC01-P87NNS15	Single-Cell	Normal	Spleen	Non-Stem 2
-CRC01-P87NNS17	Single-Cell	Normal	Spleen	Non-Stem 2
-CRC01-P87NNS5	Single-Cell	Normal	Spleen	Non-Stem 2
-CRC01-P87NNS9	Single-Cell	Normal	Spleen	Non-Stem 2
-CRC01-P87NS10	Single-Cell	Normal	Spleen	Stem
-CRC01-P87NS12	Single-Cell	Normal	Spleen	Stem
-CRC01-P87NS15	Single-Cell	Normal	Spleen	Stem
-CRC01-P87NS9	Single-Cell	Normal	Spleen	Stem
-CRC1_P24_Lgr5_14	Single-Cell	Tumor	Duodenum	Non-Stem 1
-CRC01-P39TNS3	Single-Cell	Tumor	LargeBowel	Non-Stem 2
-CRC01-P39TS11	Single-Cell	Tumor	LargeBowel	Stem
-CRC01-P39TS13	Single-Cell	Tumor	LargeBowel	Stem
-CRC01-P39TS15	Single-Cell	Tumor	LargeBowel	Stem
-CRC01-P39TS4	Single-Cell	Tumor	LargeBowel	Stem
-CRC01-P39TS8	Single-Cell	Tumor	LargeBowel	Stem
-CRC01-P39TS9	Single-Cell	Tumor	LargeBowel	Stem
-CRC01.P42.TS.17	Single-Cell	Tumor	LargeBowel	Stem
-CRC01.P42.TS.2	Single-Cell	Tumor	LargeBowel	Stem
-CRC01.P42.TS.3	Single-Cell	Tumor	LargeBowel	Stem
+CRC01-P92NNS18	Single-Cell	Normal	AdrenalGland	Non-Stem
+CRC1_P24_Lgr5_19	Single-Cell	Normal	Duodenum	Stem 1
+CRC01-P24NNS14	Single-Cell	Normal	Duodenum	Non-Stem
+CRC01-P24NNS4	Single-Cell	Normal	Duodenum	Non-Stem
+CRC01-P24NNS8	Single-Cell	Normal	Duodenum	Non-Stem
+CRC01-P24NS1	Single-Cell	Normal	Duodenum	Stem 2
+CRC01-P24NS13	Single-Cell	Normal	Duodenum	Stem 2
+CRC01-P24NS14	Single-Cell	Normal	Duodenum	Stem 2
+CRC01-P24NS16	Single-Cell	Normal	Duodenum	Stem 2
+CRC01-P24NS17	Single-Cell	Normal	Duodenum	Stem 2
+CRC01-P24NS18	Single-Cell	Normal	Duodenum	Stem 2
+CRC01-P24NS19	Single-Cell	Normal	Duodenum	Stem 2
+CRC01-P24NS3	Single-Cell	Normal	Duodenum	Stem 2
+CRC01-P24NS5	Single-Cell	Normal	Duodenum	Stem 2
+CRC01-P59NNS1	Single-Cell	Normal	LargeBowel	Non-Stem
+CRC01-P59NNS11	Single-Cell	Normal	LargeBowel	Non-Stem
+CRC01-P59NNS15	Single-Cell	Normal	LargeBowel	Non-Stem
+CRC01-P59NNS16	Single-Cell	Normal	LargeBowel	Non-Stem
+CRC01-P59NNS18	Single-Cell	Normal	LargeBowel	Non-Stem
+CRC01-P59NNS5	Single-Cell	Normal	LargeBowel	Non-Stem
+CRC01-P59NNS9	Single-Cell	Normal	LargeBowel	Non-Stem
+CRC01-P59NS10	Single-Cell	Normal	LargeBowel	Stem 2
+CRC01-P59NS11	Single-Cell	Normal	LargeBowel	Stem 2
+CRC01-P59NS18	Single-Cell	Normal	LargeBowel	Stem 2
+CRC01-P59NS7	Single-Cell	Normal	LargeBowel	Stem 2
+CRC1_P87_Lgr5_12	Single-Cell	Normal	Spleen	Stem 1
+CRC1_P87_Lgr5_20	Single-Cell	Normal	Spleen	Stem 1
+CRC01-P87NNS15	Single-Cell	Normal	Spleen	Non-Stem
+CRC01-P87NNS17	Single-Cell	Normal	Spleen	Non-Stem
+CRC01-P87NNS5	Single-Cell	Normal	Spleen	Non-Stem
+CRC01-P87NNS9	Single-Cell	Normal	Spleen	Non-Stem
+CRC01-P87NS10	Single-Cell	Normal	Spleen	Stem 2
+CRC01-P87NS12	Single-Cell	Normal	Spleen	Stem 2
+CRC01-P87NS15	Single-Cell	Normal	Spleen	Stem 2
+CRC01-P87NS9	Single-Cell	Normal	Spleen	Stem 2
+CRC1_P24_Lgr5_14	Single-Cell	Tumor	Duodenum	Stem 1
+CRC01-P39TNS3	Single-Cell	Tumor	LargeBowel	Non-Stem
+CRC01-P39TS11	Single-Cell	Tumor	LargeBowel	Stem 2
+CRC01-P39TS13	Single-Cell	Tumor	LargeBowel	Stem 2
+CRC01-P39TS15	Single-Cell	Tumor	LargeBowel	Stem 2
+CRC01-P39TS4	Single-Cell	Tumor	LargeBowel	Stem 2
+CRC01-P39TS8	Single-Cell	Tumor	LargeBowel	Stem 2
+CRC01-P39TS9	Single-Cell	Tumor	LargeBowel	Stem 2
+CRC01.P42.TS.17	Single-Cell	Tumor	LargeBowel	Stem 2
+CRC01.P42.TS.2	Single-Cell	Tumor	LargeBowel	Stem 2
+CRC01.P42.TS.3	Single-Cell	Tumor	LargeBowel	Stem 2

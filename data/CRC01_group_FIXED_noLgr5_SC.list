@@ -1,47 +1,47 @@
 POS	Tissue	Region	Type
-CRC01-P92NNS18	Normal	AdrenalGland	Non-Stem 2
-CRC1_P24_Lgr5_19	Normal	Duodenum	Non-Stem 1
-CRC01-P24NNS14	Normal	Duodenum	Non-Stem 2
-CRC01-P24NNS4	Normal	Duodenum	Non-Stem 2
-CRC01-P24NNS8	Normal	Duodenum	Non-Stem 2
-CRC01-P24NS1	Normal	Duodenum	Stem
-CRC01-P24NS13	Normal	Duodenum	Stem
-CRC01-P24NS14	Normal	Duodenum	Stem
-CRC01-P24NS16	Normal	Duodenum	Stem
-CRC01-P24NS17	Normal	Duodenum	Stem
-CRC01-P24NS18	Normal	Duodenum	Stem
-CRC01-P24NS19	Normal	Duodenum	Stem
-CRC01-P24NS3	Normal	Duodenum	Stem
-CRC01-P24NS5	Normal	Duodenum	Stem
-CRC01-P59NNS1	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NNS11	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NNS15	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NNS16	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NNS18	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NNS5	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NNS9	Normal	LargeBowel	Non-Stem 2
-CRC01-P59NS10	Normal	LargeBowel	Stem
-CRC01-P59NS11	Normal	LargeBowel	Stem
-CRC01-P59NS18	Normal	LargeBowel	Stem
-CRC01-P59NS7	Normal	LargeBowel	Stem
-CRC1_P87_Lgr5_12	Normal	Spleen	Non-Stem 1
-CRC1_P87_Lgr5_20	Normal	Spleen	Non-Stem 1
-CRC01-P87NNS15	Normal	Spleen	Non-Stem 2
-CRC01-P87NNS17	Normal	Spleen	Non-Stem 2
-CRC01-P87NNS5	Normal	Spleen	Non-Stem 2
-CRC01-P87NNS9	Normal	Spleen	Non-Stem 2
-CRC01-P87NS10	Normal	Spleen	Stem
-CRC01-P87NS12	Normal	Spleen	Stem
-CRC01-P87NS15	Normal	Spleen	Stem
-CRC01-P87NS9	Normal	Spleen	Stem
-CRC1_P24_Lgr5_14	Tumor	Duodenum	Non-Stem 1
-CRC01-P39TNS3	Tumor	LargeBowel	Non-Stem 2
-CRC01-P39TS11	Tumor	LargeBowel	Stem
-CRC01-P39TS13	Tumor	LargeBowel	Stem
-CRC01-P39TS15	Tumor	LargeBowel	Stem
-CRC01-P39TS4	Tumor	LargeBowel	Stem
-CRC01-P39TS8	Tumor	LargeBowel	Stem
-CRC01-P39TS9	Tumor	LargeBowel	Stem
-CRC01.P42.TS.17	Tumor	LargeBowel	Stem
-CRC01.P42.TS.2	Tumor	LargeBowel	Stem
-CRC01.P42.TS.3	Tumor	LargeBowel	Stem
+CRC01-P92NNS18	Normal	AdrenalGland	Non-Stem
+CRC1_P24_Lgr5_19	Normal	Duodenum	Stem 1
+CRC01-P24NNS14	Normal	Duodenum	Non-Stem
+CRC01-P24NNS4	Normal	Duodenum	Non-Stem
+CRC01-P24NNS8	Normal	Duodenum	Non-Stem
+CRC01-P24NS1	Normal	Duodenum	Stem 2
+CRC01-P24NS13	Normal	Duodenum	Stem 2
+CRC01-P24NS14	Normal	Duodenum	Stem 2
+CRC01-P24NS16	Normal	Duodenum	Stem 2
+CRC01-P24NS17	Normal	Duodenum	Stem 2
+CRC01-P24NS18	Normal	Duodenum	Stem 2
+CRC01-P24NS19	Normal	Duodenum	Stem 2
+CRC01-P24NS3	Normal	Duodenum	Stem 2
+CRC01-P24NS5	Normal	Duodenum	Stem 2
+CRC01-P59NNS1	Normal	LargeBowel	Non-Stem
+CRC01-P59NNS11	Normal	LargeBowel	Non-Stem
+CRC01-P59NNS15	Normal	LargeBowel	Non-Stem
+CRC01-P59NNS16	Normal	LargeBowel	Non-Stem
+CRC01-P59NNS18	Normal	LargeBowel	Non-Stem
+CRC01-P59NNS5	Normal	LargeBowel	Non-Stem
+CRC01-P59NNS9	Normal	LargeBowel	Non-Stem
+CRC01-P59NS10	Normal	LargeBowel	Stem 2
+CRC01-P59NS11	Normal	LargeBowel	Stem 2
+CRC01-P59NS18	Normal	LargeBowel	Stem 2
+CRC01-P59NS7	Normal	LargeBowel	Stem 2
+CRC1_P87_Lgr5_12	Normal	Spleen	Stem 1
+CRC1_P87_Lgr5_20	Normal	Spleen	Stem 1
+CRC01-P87NNS15	Normal	Spleen	Non-Stem
+CRC01-P87NNS17	Normal	Spleen	Non-Stem
+CRC01-P87NNS5	Normal	Spleen	Non-Stem
+CRC01-P87NNS9	Normal	Spleen	Non-Stem
+CRC01-P87NS10	Normal	Spleen	Stem 2
+CRC01-P87NS12	Normal	Spleen	Stem 2
+CRC01-P87NS15	Normal	Spleen	Stem 2
+CRC01-P87NS9	Normal	Spleen	Stem 2
+CRC1_P24_Lgr5_14	Tumor	Duodenum	Stem 1
+CRC01-P39TNS3	Tumor	LargeBowel	Non-Stem
+CRC01-P39TS11	Tumor	LargeBowel	Stem 2
+CRC01-P39TS13	Tumor	LargeBowel	Stem 2
+CRC01-P39TS15	Tumor	LargeBowel	Stem 2
+CRC01-P39TS4	Tumor	LargeBowel	Stem 2
+CRC01-P39TS8	Tumor	LargeBowel	Stem 2
+CRC01-P39TS9	Tumor	LargeBowel	Stem 2
+CRC01.P42.TS.17	Tumor	LargeBowel	Stem 2
+CRC01.P42.TS.2	Tumor	LargeBowel	Stem 2
+CRC01.P42.TS.3	Tumor	LargeBowel	Stem 2

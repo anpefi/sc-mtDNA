@@ -1,13 +1,13 @@
 POS	Tissue	Region	Type
-CRC08-ND_NS11	Normal	Distal	Stem
-CRC08-NP_Lgr5_12	Normal	Proximal	Non-Stem 1
-CRC08-NP_Lgr5_6	Normal	Proximal	Non-Stem 1
-CRC08-NP_Lgr5_8	Normal	Proximal	Non-Stem 1
-CRC08-NPNNS11	Normal	Proximal	Non-Stem 2
-CRC08-NPNNS14	Normal	Proximal	Non-Stem 2
-CRC08-NPNNS16	Normal	Proximal	Non-Stem 2
-CRC08-NPNNS17	Normal	Proximal	Non-Stem 2
-CRC08-NPNNS18	Normal	Proximal	Non-Stem 2
-CRC08-NPNNS20	Normal	Proximal	Non-Stem 2
-CRC08-NPNNS5	Normal	Proximal	Non-Stem 2
-CRC08-NPNNS6	Normal	Proximal	Non-Stem 2
+CRC08-ND_NS11	Normal	Distal	Stem 2
+CRC08-NP_Lgr5_12	Normal	Proximal	Stem 1
+CRC08-NP_Lgr5_6	Normal	Proximal	Stem 1
+CRC08-NP_Lgr5_8	Normal	Proximal	Stem 1
+CRC08-NPNNS11	Normal	Proximal	Non-Stem
+CRC08-NPNNS14	Normal	Proximal	Non-Stem
+CRC08-NPNNS16	Normal	Proximal	Non-Stem
+CRC08-NPNNS17	Normal	Proximal	Non-Stem
+CRC08-NPNNS18	Normal	Proximal	Non-Stem
+CRC08-NPNNS20	Normal	Proximal	Non-Stem
+CRC08-NPNNS5	Normal	Proximal	Non-Stem
+CRC08-NPNNS6	Normal	Proximal	Non-Stem

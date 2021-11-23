@@ -1,32 +1,32 @@
 POS	Tissue	Region	Type
-CRC12.ND.Lgr5.1	Normal	Distal	Non-Stem 1
-CRC12.ND.Lgr5.14	Normal	Distal	Non-Stem 1
-CRC12.ND.Lgr5.15	Normal	Distal	Non-Stem 1
-CRC12.ND.Lgr5.17	Normal	Distal	Non-Stem 1
-CRC12.ND.Lgr5.19	Normal	Distal	Non-Stem 1
-CRC12_ND_NNS12	Normal	Distal	Non-Stem 2
-CRC12_ND_NNS16	Normal	Distal	Non-Stem 2
-CRC12_ND_NNS19	Normal	Distal	Non-Stem 2
-CRC12_ND_NNS8	Normal	Distal	Non-Stem 2
-CRC12_ND_NNS9	Normal	Distal	Non-Stem 2
-CRC12_ND_NS20	Normal	Distal	Stem
-CRC12_ND_NS4	Normal	Distal	Stem
-CRC12_ND_NS7	Normal	Distal	Stem
-CRC12_ND_NS8	Normal	Distal	Stem
-CRC12_ND_NS9	Normal	Distal	Stem
-CRC12.NP.Lgr5.14	Normal	Proximal	Non-Stem 1
-CRC12.NP.Lgr5.15	Normal	Proximal	Non-Stem 1
-CRC12.NP.Lgr5.16	Normal	Proximal	Non-Stem 1
-CRC12.NP.Lgr5.17	Normal	Proximal	Non-Stem 1
-CRC12.NP.Lgr5.18	Normal	Proximal	Non-Stem 1
-CRC12.NP.Lgr5.6	Normal	Proximal	Non-Stem 1
-CRC12_NP_NNS15	Normal	Proximal	Non-Stem 2
-CRC12_NP_NNS16	Normal	Proximal	Non-Stem 2
-CRC12_NP_NNS18	Normal	Proximal	Non-Stem 2
-CRC12_NP_NNS19	Normal	Proximal	Non-Stem 2
-CRC12_NP_NNS8	Normal	Proximal	Non-Stem 2
-CRC12_NP_NS10	Normal	Proximal	Stem
-CRC12_NP_NS14	Normal	Proximal	Stem
-CRC12_NP_NS2	Normal	Proximal	Stem
-CRC12_NP_NS6	Normal	Proximal	Stem
-CRC12_NP_NS7	Normal	Proximal	Stem
+CRC12.ND.Lgr5.1	Normal	Distal	Stem 1
+CRC12.ND.Lgr5.14	Normal	Distal	Stem 1
+CRC12.ND.Lgr5.15	Normal	Distal	Stem 1
+CRC12.ND.Lgr5.17	Normal	Distal	Stem 1
+CRC12.ND.Lgr5.19	Normal	Distal	Stem 1
+CRC12_ND_NNS12	Normal	Distal	Non-Stem
+CRC12_ND_NNS16	Normal	Distal	Non-Stem
+CRC12_ND_NNS19	Normal	Distal	Non-Stem
+CRC12_ND_NNS8	Normal	Distal	Non-Stem
+CRC12_ND_NNS9	Normal	Distal	Non-Stem
+CRC12_ND_NS20	Normal	Distal	Stem 2
+CRC12_ND_NS4	Normal	Distal	Stem 2
+CRC12_ND_NS7	Normal	Distal	Stem 2
+CRC12_ND_NS8	Normal	Distal	Stem 2
+CRC12_ND_NS9	Normal	Distal	Stem 2
+CRC12.NP.Lgr5.14	Normal	Proximal	Stem 1
+CRC12.NP.Lgr5.15	Normal	Proximal	Stem 1
+CRC12.NP.Lgr5.16	Normal	Proximal	Stem 1
+CRC12.NP.Lgr5.17	Normal	Proximal	Stem 1
+CRC12.NP.Lgr5.18	Normal	Proximal	Stem 1
+CRC12.NP.Lgr5.6	Normal	Proximal	Stem 1
+CRC12_NP_NNS15	Normal	Proximal	Non-Stem
+CRC12_NP_NNS16	Normal	Proximal	Non-Stem
+CRC12_NP_NNS18	Normal	Proximal	Non-Stem
+CRC12_NP_NNS19	Normal	Proximal	Non-Stem
+CRC12_NP_NNS8	Normal	Proximal	Non-Stem
+CRC12_NP_NS10	Normal	Proximal	Stem 2
+CRC12_NP_NS14	Normal	Proximal	Stem 2
+CRC12_NP_NS2	Normal	Proximal	Stem 2
+CRC12_NP_NS6	Normal	Proximal	Stem 2
+CRC12_NP_NS7	Normal	Proximal	Stem 2

@@ -1,68 +1,68 @@
 POS	Sample	Tissue	Location	Cell_type
 CRC12.ND.BULK	Bulk	Normal	Distal	
 CRC12.TD.BULK	Bulk	Tumor	Distal	
-CRC12.ND.Lgr5.1	Single-Cell	Normal	Distal	Non-Stem 1
-CRC12.ND.Lgr5.14	Single-Cell	Normal	Distal	Non-Stem 1
-CRC12.ND.Lgr5.15	Single-Cell	Normal	Distal	Non-Stem 1
-CRC12.ND.Lgr5.17	Single-Cell	Normal	Distal	Non-Stem 1
-CRC12.ND.Lgr5.19	Single-Cell	Normal	Distal	Non-Stem 1
-CRC12_ND_NNS12	Single-Cell	Normal	Distal	Non-Stem 2
-CRC12_ND_NNS16	Single-Cell	Normal	Distal	Non-Stem 2
-CRC12_ND_NNS19	Single-Cell	Normal	Distal	Non-Stem 2
-CRC12_ND_NNS8	Single-Cell	Normal	Distal	Non-Stem 2
-CRC12_ND_NNS9	Single-Cell	Normal	Distal	Non-Stem 2
-CRC12_ND_NS20	Single-Cell	Normal	Distal	Stem
-CRC12_ND_NS4	Single-Cell	Normal	Distal	Stem
-CRC12_ND_NS7	Single-Cell	Normal	Distal	Stem
-CRC12_ND_NS8	Single-Cell	Normal	Distal	Stem
-CRC12_ND_NS9	Single-Cell	Normal	Distal	Stem
-CRC12.NP.Lgr5.14	Single-Cell	Normal	Proximal	Non-Stem 1
-CRC12.NP.Lgr5.15	Single-Cell	Normal	Proximal	Non-Stem 1
-CRC12.NP.Lgr5.16	Single-Cell	Normal	Proximal	Non-Stem 1
-CRC12.NP.Lgr5.17	Single-Cell	Normal	Proximal	Non-Stem 1
-CRC12.NP.Lgr5.18	Single-Cell	Normal	Proximal	Non-Stem 1
-CRC12.NP.Lgr5.6	Single-Cell	Normal	Proximal	Non-Stem 1
-CRC12_NP_NNS15	Single-Cell	Normal	Proximal	Non-Stem 2
-CRC12_NP_NNS16	Single-Cell	Normal	Proximal	Non-Stem 2
-CRC12_NP_NNS18	Single-Cell	Normal	Proximal	Non-Stem 2
-CRC12_NP_NNS19	Single-Cell	Normal	Proximal	Non-Stem 2
-CRC12_NP_NNS8	Single-Cell	Normal	Proximal	Non-Stem 2
-CRC12_NP_NS10	Single-Cell	Normal	Proximal	Stem
-CRC12_NP_NS14	Single-Cell	Normal	Proximal	Stem
-CRC12_NP_NS2	Single-Cell	Normal	Proximal	Stem
-CRC12_NP_NS6	Single-Cell	Normal	Proximal	Stem
-CRC12_NP_NS7	Single-Cell	Normal	Proximal	Stem
-CRC12_TD_TNS10	Single-Cell	Tumor	Distal	Non-Stem 2
-CRC12_TD_TNS12	Single-Cell	Tumor	Distal	Non-Stem 2
-CRC12_TD_TNS13	Single-Cell	Tumor	Distal	Non-Stem 2
-CRC12_TD_TNS14	Single-Cell	Tumor	Distal	Non-Stem 2
-CRC12_TD_TNS19	Single-Cell	Tumor	Distal	Non-Stem 2
-CRC12_TD_TNS2	Single-Cell	Tumor	Distal	Non-Stem 2
-CRC12_TD_TNS20	Single-Cell	Tumor	Distal	Non-Stem 2
-CRC12_TD_TNS3	Single-Cell	Tumor	Distal	Non-Stem 2
-CRC12_TD_TNS4	Single-Cell	Tumor	Distal	Non-Stem 2
-CRC12_TD_TNS6	Single-Cell	Tumor	Distal	Non-Stem 2
-CRC12_TD_TNS8	Single-Cell	Tumor	Distal	Non-Stem 2
-CRC12_TD_TNS9	Single-Cell	Tumor	Distal	Non-Stem 2
-CRC12_TD_TS14	Single-Cell	Tumor	Distal	Stem
-CRC12_TD_TS16	Single-Cell	Tumor	Distal	Stem
-CRC12_TM_TNS14	Single-Cell	Tumor	Middle	Non-Stem 2
-CRC12_TM_TNS3	Single-Cell	Tumor	Middle	Non-Stem 2
-CRC12_TM_TNS9	Single-Cell	Tumor	Middle	Non-Stem 2
-CRC12_TM_TS11	Single-Cell	Tumor	Middle	Stem
-CRC12_TM_TS17	Single-Cell	Tumor	Middle	Stem
-CRC12_TM_TS20	Single-Cell	Tumor	Middle	Stem
-CRC12_TM_TS9	Single-Cell	Tumor	Middle	Stem
-CRC12_TP_TNS10	Single-Cell	Tumor	Proximal	Non-Stem 2
-CRC12_TP_TNS13	Single-Cell	Tumor	Proximal	Non-Stem 2
-CRC12_TP_TNS2	Single-Cell	Tumor	Proximal	Non-Stem 2
-CRC12_TP_TNS3	Single-Cell	Tumor	Proximal	Non-Stem 2
-CRC12_TP_TNS4	Single-Cell	Tumor	Proximal	Non-Stem 2
-CRC12_TP_TNS5	Single-Cell	Tumor	Proximal	Non-Stem 2
-CRC12_TP_TS10	Single-Cell	Tumor	Proximal	Stem
-CRC12_TP_TS15	Single-Cell	Tumor	Proximal	Stem
-CRC12_TP_TS17	Single-Cell	Tumor	Proximal	Stem
-CRC12_TP_TS20	Single-Cell	Tumor	Proximal	Stem
-CRC12_TP_TS4	Single-Cell	Tumor	Proximal	Stem
-CRC12_TP_TS5	Single-Cell	Tumor	Proximal	Stem
-CRC12_TP_TS9	Single-Cell	Tumor	Proximal	Stem
+CRC12.ND.Lgr5.1	Single-Cell	Normal	Distal	Stem 1
+CRC12.ND.Lgr5.14	Single-Cell	Normal	Distal	Stem 1
+CRC12.ND.Lgr5.15	Single-Cell	Normal	Distal	Stem 1
+CRC12.ND.Lgr5.17	Single-Cell	Normal	Distal	Stem 1
+CRC12.ND.Lgr5.19	Single-Cell	Normal	Distal	Stem 1
+CRC12_ND_NNS12	Single-Cell	Normal	Distal	Non-Stem
+CRC12_ND_NNS16	Single-Cell	Normal	Distal	Non-Stem
+CRC12_ND_NNS19	Single-Cell	Normal	Distal	Non-Stem
+CRC12_ND_NNS8	Single-Cell	Normal	Distal	Non-Stem
+CRC12_ND_NNS9	Single-Cell	Normal	Distal	Non-Stem
+CRC12_ND_NS20	Single-Cell	Normal	Distal	Stem 2
+CRC12_ND_NS4	Single-Cell	Normal	Distal	Stem 2
+CRC12_ND_NS7	Single-Cell	Normal	Distal	Stem 2
+CRC12_ND_NS8	Single-Cell	Normal	Distal	Stem 2
+CRC12_ND_NS9	Single-Cell	Normal	Distal	Stem 2
+CRC12.NP.Lgr5.14	Single-Cell	Normal	Proximal	Stem 1
+CRC12.NP.Lgr5.15	Single-Cell	Normal	Proximal	Stem 1
+CRC12.NP.Lgr5.16	Single-Cell	Normal	Proximal	Stem 1
+CRC12.NP.Lgr5.17	Single-Cell	Normal	Proximal	Stem 1
+CRC12.NP.Lgr5.18	Single-Cell	Normal	Proximal	Stem 1
+CRC12.NP.Lgr5.6	Single-Cell	Normal	Proximal	Stem 1
+CRC12_NP_NNS15	Single-Cell	Normal	Proximal	Non-Stem
+CRC12_NP_NNS16	Single-Cell	Normal	Proximal	Non-Stem
+CRC12_NP_NNS18	Single-Cell	Normal	Proximal	Non-Stem
+CRC12_NP_NNS19	Single-Cell	Normal	Proximal	Non-Stem
+CRC12_NP_NNS8	Single-Cell	Normal	Proximal	Non-Stem
+CRC12_NP_NS10	Single-Cell	Normal	Proximal	Stem 2
+CRC12_NP_NS14	Single-Cell	Normal	Proximal	Stem 2
+CRC12_NP_NS2	Single-Cell	Normal	Proximal	Stem 2
+CRC12_NP_NS6	Single-Cell	Normal	Proximal	Stem 2
+CRC12_NP_NS7	Single-Cell	Normal	Proximal	Stem 2
+CRC12_TD_TNS10	Single-Cell	Tumor	Distal	Non-Stem
+CRC12_TD_TNS12	Single-Cell	Tumor	Distal	Non-Stem
+CRC12_TD_TNS13	Single-Cell	Tumor	Distal	Non-Stem
+CRC12_TD_TNS14	Single-Cell	Tumor	Distal	Non-Stem
+CRC12_TD_TNS19	Single-Cell	Tumor	Distal	Non-Stem
+CRC12_TD_TNS2	Single-Cell	Tumor	Distal	Non-Stem
+CRC12_TD_TNS20	Single-Cell	Tumor	Distal	Non-Stem
+CRC12_TD_TNS3	Single-Cell	Tumor	Distal	Non-Stem
+CRC12_TD_TNS4	Single-Cell	Tumor	Distal	Non-Stem
+CRC12_TD_TNS6	Single-Cell	Tumor	Distal	Non-Stem
+CRC12_TD_TNS8	Single-Cell	Tumor	Distal	Non-Stem
+CRC12_TD_TNS9	Single-Cell	Tumor	Distal	Non-Stem
+CRC12_TD_TS14	Single-Cell	Tumor	Distal	Stem 2
+CRC12_TD_TS16	Single-Cell	Tumor	Distal	Stem 2
+CRC12_TM_TNS14	Single-Cell	Tumor	Middle	Non-Stem
+CRC12_TM_TNS3	Single-Cell	Tumor	Middle	Non-Stem
+CRC12_TM_TNS9	Single-Cell	Tumor	Middle	Non-Stem
+CRC12_TM_TS11	Single-Cell	Tumor	Middle	Stem 2
+CRC12_TM_TS17	Single-Cell	Tumor	Middle	Stem 2
+CRC12_TM_TS20	Single-Cell	Tumor	Middle	Stem 2
+CRC12_TM_TS9	Single-Cell	Tumor	Middle	Stem 2
+CRC12_TP_TNS10	Single-Cell	Tumor	Proximal	Non-Stem
+CRC12_TP_TNS13	Single-Cell	Tumor	Proximal	Non-Stem
+CRC12_TP_TNS2	Single-Cell	Tumor	Proximal	Non-Stem
+CRC12_TP_TNS3	Single-Cell	Tumor	Proximal	Non-Stem
+CRC12_TP_TNS4	Single-Cell	Tumor	Proximal	Non-Stem
+CRC12_TP_TNS5	Single-Cell	Tumor	Proximal	Non-Stem
+CRC12_TP_TS10	Single-Cell	Tumor	Proximal	Stem 2
+CRC12_TP_TS15	Single-Cell	Tumor	Proximal	Stem 2
+CRC12_TP_TS17	Single-Cell	Tumor	Proximal	Stem 2
+CRC12_TP_TS20	Single-Cell	Tumor	Proximal	Stem 2
+CRC12_TP_TS4	Single-Cell	Tumor	Proximal	Stem 2
+CRC12_TP_TS5	Single-Cell	Tumor	Proximal	Stem 2
+CRC12_TP_TS9	Single-Cell	Tumor	Proximal	Stem 2
