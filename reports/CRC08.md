@@ -24,7 +24,7 @@ popdata <- read.table(here::here("data/CRC08_group_FIXED_noLgr5.list"), h=T, sep
 color_anno = list( Sample = c("Bulk"="black", "Single-Cell"="grey"), #Change as needed
                    Tissue = c("Tumor"="red", "Normal"="blue"),
                    Location = c("Central"="brown", "Middle"="brown", "Distal"="yellow", "Proximal"="darkgreen"),
-                   Cell_type = c("Non-Stem 1"="lightblue", "Non-Stem 2"="lightgreen", "Stem"="orange", "ND"="white")
+                   Cell_type = c("Stem 1"="lightblue", "Non-Stem"="lightgreen", "Stem 2"="orange", "ND"="white")
 )
 
 ha1 <- rowAnnotation(df = popdata[,-1], col = color_anno, show_annotation_name = F, na_col = "white")
@@ -77,7 +77,7 @@ tab_pvalues
     ## # A tibble: 3 x 2
     ##   Group               p_values
     ##   <chr>                  <dbl>
-    ## 1 Tissue                 0.387
+    ## 1 Tissue                 0.440
     ## 2 Region by Tissue       0    
     ## 3 Cell type by Tissue   NA
 
@@ -107,16 +107,16 @@ for (i in 1:(ntt-1) ){
         }
 ```
 
-    ## Normal_Distal  -  Normal_Proximal :  -1.326    (P= 0.8345 )  
-    ## Normal_Distal  -  Tumor_Central :  0.5235      (P= 0.1719 )  
-    ## Normal_Distal  -  Tumor_Distal :  -0.2276      (P= 0.2734 )  
-    ## Normal_Distal  -  Tumor_Proximal :  0.8687     (P= 0.06659 )  
+    ## Normal_Distal  -  Normal_Proximal :  -1.326    (P= 0.8369 )  
+    ## Normal_Distal  -  Tumor_Central :  0.5235      (P= 0.1733 )  
+    ## Normal_Distal  -  Tumor_Distal :  -0.2276      (P= 0.2704 )  
+    ## Normal_Distal  -  Tumor_Proximal :  0.8687     (P= 0.06579 )  
     ## Normal_Proximal  -  Tumor_Central :  0.488     (P<0.0001)  
-    ## Normal_Proximal  -  Tumor_Distal :  0.1745     (P= 0.07109 )  
-    ## Normal_Proximal  -  Tumor_Proximal :  0.1551       (P= 0.0112 )  
+    ## Normal_Proximal  -  Tumor_Distal :  0.1745     (P= 0.06949 )  
+    ## Normal_Proximal  -  Tumor_Proximal :  0.1551       (P= 0.009799 )  
     ## Tumor_Central  -  Tumor_Distal :  0.7199       (P<0.0001)  
     ## Tumor_Central  -  Tumor_Proximal :  0.8724     (P<0.0001)  
-    ## Tumor_Distal  -  Tumor_Proximal :  -0.0822     (P= 0.6475 )
+    ## Tumor_Distal  -  Tumor_Proximal :  -0.0822     (P= 0.6468 )
 
 ## Tissue/Type
 
@@ -142,21 +142,21 @@ for (i in 1:(ntt-1) ){
         }
 ```
 
-    ## Normal_Non-Stem 1  -  Normal_Non-Stem 2 :  0.5588      (P= 0.006399 )  
-    ## Normal_Non-Stem 1  -  Normal_Stem :  -0.8479       (P= 0.5022 )  
-    ## Normal_Non-Stem 1  -  Tumor_Non-Stem 1 :  0.4108       (P= 0.0429 )  
-    ## Normal_Non-Stem 1  -  Tumor_Non-Stem 2 :  0.4934       (P= 0.05879 )  
-    ## Normal_Non-Stem 1  -  Tumor_Stem :  -0.04954       (P= 0.5269 )  
-    ## Normal_Non-Stem 2  -  Normal_Stem :  0.6364    (P= 0.2208 )  
-    ## Normal_Non-Stem 2  -  Tumor_Non-Stem 1 :  0.02612      (P= 0.2748 )  
-    ## Normal_Non-Stem 2  -  Tumor_Non-Stem 2 :  -0.07854     (P= 0.7109 )  
-    ## Normal_Non-Stem 2  -  Tumor_Stem :  0.4775     (P= 0.0206 )  
-    ## Normal_Stem  -  Tumor_Non-Stem 1 :  -0.595     (P= 0.8683 )  
-    ## Normal_Stem  -  Tumor_Non-Stem 2 :  -1.218     (P= 0.8583 )  
-    ## Normal_Stem  -  Tumor_Stem :  -0.4173      (P= 0.4978 )  
-    ## Tumor_Non-Stem 1  -  Tumor_Non-Stem 2 :  0.03102       (P= 0.2253 )  
-    ## Tumor_Non-Stem 1  -  Tumor_Stem :  0.3284      (P= 0.0388 )  
-    ## Tumor_Non-Stem 2  -  Tumor_Stem :  0.4394      (P= 0.0178 )
+    ## Normal_Non-Stem  -  Normal_Stem 1 :  0.5588    (P= 0.0048 )  
+    ## Normal_Non-Stem  -  Normal_Stem 2 :  0.6364    (P= 0.2231 )  
+    ## Normal_Non-Stem  -  Tumor_Non-Stem :  -0.07854     (P= 0.7119 )  
+    ## Normal_Non-Stem  -  Tumor_Stem 1 :  0.02612    (P= 0.2783 )  
+    ## Normal_Non-Stem  -  Tumor_Stem 2 :  0.4775     (P= 0.0211 )  
+    ## Normal_Stem 1  -  Normal_Stem 2 :  -0.8479     (P= 0.5019 )  
+    ## Normal_Stem 1  -  Tumor_Non-Stem :  0.4934     (P= 0.06419 )  
+    ## Normal_Stem 1  -  Tumor_Stem 1 :  0.4108       (P= 0.0475 )  
+    ## Normal_Stem 1  -  Tumor_Stem 2 :  -0.04954     (P= 0.5392 )  
+    ## Normal_Stem 2  -  Tumor_Non-Stem :  -1.218     (P= 0.8563 )  
+    ## Normal_Stem 2  -  Tumor_Stem 1 :  -0.595       (P= 0.8714 )  
+    ## Normal_Stem 2  -  Tumor_Stem 2 :  -0.4173      (P= 0.5009 )  
+    ## Tumor_Non-Stem  -  Tumor_Stem 1 :  0.03102     (P= 0.2271 )  
+    ## Tumor_Non-Stem  -  Tumor_Stem 2 :  0.4394      (P= 0.0156 )  
+    ## Tumor_Stem 1  -  Tumor_Stem 2 :  0.3284    (P= 0.0407 )
 
 # Copy Number (fastmitocalc):
 
@@ -255,10 +255,9 @@ pca$li %>%
     scale_color_manual(values=c("lightgreen", "orange","blue")) #Change as needed
 ```
 
-    ## Too few points to calculate an ellipse
-
     ## Warning in MASS::cov.trob(data[, vars]): Probable convergence failure
 
+    ## Too few points to calculate an ellipse
     ## Too few points to calculate an ellipse
 
     ## Warning: Removed 2 row(s) containing missing values (geom_path).

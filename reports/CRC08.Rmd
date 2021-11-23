@@ -31,7 +31,7 @@ popdata <- read.table(here::here("data/CRC08_group_FIXED_noLgr5.list"), h=T, sep
 color_anno = list( Sample = c("Bulk"="black", "Single-Cell"="grey"), #Change as needed
                    Tissue = c("Tumor"="red", "Normal"="blue"),
                    Location = c("Central"="brown", "Middle"="brown", "Distal"="yellow", "Proximal"="darkgreen"),
-                   Cell_type = c("Non-Stem 1"="lightblue", "Non-Stem 2"="lightgreen", "Stem"="orange", "ND"="white")
+                   Cell_type = c("Stem 1"="lightblue", "Non-Stem"="lightgreen", "Stem 2"="orange", "ND"="white")
 )
 
 ha1 <- rowAnnotation(df = popdata[,-1], col = color_anno, show_annotation_name = F, na_col = "white")
